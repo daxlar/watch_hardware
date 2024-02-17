@@ -1,0 +1,1821 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/home/allzhang/Documents/projects/watch/hardware/sensor_board/sensor_board.kicad_sch</source>
+    <date>Fri 16 Feb 2024 01:30:20 PM CST</date>
+    <tool>Eeschema 7.0.10-7.0.10~ubuntu22.04.1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>sensor_board.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="Distributor Link">https://www.digikey.com/en/products/detail/kemet/C0603C105K4PAC7867/1465595?s=N4IgTCBcDaIAQGEAMA2JBmBBGJBWA0gCwAKAgggOwAcKFIAugL5A</field>
+        <field name="LCSC">C561801</field>
+        <field name="Manufacturer">KEMET</field>
+        <field name="Manufacturer Part Number">C0603C105K4PAC7867</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Distributor Link" value="https://www.digikey.com/en/products/detail/kemet/C0603C105K4PAC7867/1465595?s=N4IgTCBcDaIAQGEAMA2JBmBBGJBWA0gCwAKAgggOwAcKFIAugL5A"/>
+      <property name="Manufacturer" value="KEMET"/>
+      <property name="Manufacturer Part Number" value="C0603C105K4PAC7867"/>
+      <property name="LCSC" value="C561801"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="sensor_board.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>18b2be6a-a32c-4590-81bc-8e7061366e15</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="Distributor Link">https://www.digikey.com/en/products/detail/kemet/C0603C105K4PAC7867/1465595?s=N4IgTCBcDaIAQGEAMA2JBmBBGJBWA0gCwAKAgggOwAcKFIAugL5A</field>
+        <field name="LCSC">C561801</field>
+        <field name="Manufacturer">KEMET</field>
+        <field name="Manufacturer Part Number">C0603C105K4PAC7867</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Distributor Link" value="https://www.digikey.com/en/products/detail/kemet/C0603C105K4PAC7867/1465595?s=N4IgTCBcDaIAQGEAMA2JBmBBGJBWA0gCwAKAgggOwAcKFIAugL5A"/>
+      <property name="Manufacturer" value="KEMET"/>
+      <property name="Manufacturer Part Number" value="C0603C105K4PAC7867"/>
+      <property name="LCSC" value="C561801"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="sensor_board.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>63c15f88-77c2-491e-9085-b6a806104ec9</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="Distributor Link">https://www.digikey.com/en/products/detail/murata-electronics/GRM188C80J106MEA6D/10706512?s=N4IgTCBcDaIOICUCyBGAHGgwmgDAKRRwDYkBRAQSIBEQBdAXyA</field>
+        <field name="LCSC">C576469</field>
+        <field name="Manufacturer">Murata Electronics</field>
+        <field name="Manufacturer Part Number">GRM188C80J106MEA6D</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Distributor Link" value="https://www.digikey.com/en/products/detail/murata-electronics/GRM188C80J106MEA6D/10706512?s=N4IgTCBcDaIOICUCyBGAHGgwmgDAKRRwDYkBRAQSIBEQBdAXyA"/>
+      <property name="Manufacturer" value="Murata Electronics"/>
+      <property name="Manufacturer Part Number" value="GRM188C80J106MEA6D"/>
+      <property name="LCSC" value="C576469"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="sensor_board.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>63b5de54-0669-453a-beab-17ba6cdd3908</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="Distributor Link">https://www.digikey.com/en/products/detail/murata-electronics/GRM188C80J106MEA6D/10706512?s=N4IgTCBcDaIOICUCyBGAHGgwmgDAKRRwDYkBRAQSIBEQBdAXyA</field>
+        <field name="LCSC">C576469</field>
+        <field name="Manufacturer">Murata Electronics</field>
+        <field name="Manufacturer Part Number">GRM188C80J106MEA6D</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Distributor Link" value="https://www.digikey.com/en/products/detail/murata-electronics/GRM188C80J106MEA6D/10706512?s=N4IgTCBcDaIOICUCyBGAHGgwmgDAKRRwDYkBRAQSIBEQBdAXyA"/>
+      <property name="Manufacturer" value="Murata Electronics"/>
+      <property name="Manufacturer Part Number" value="GRM188C80J106MEA6D"/>
+      <property name="LCSC" value="C576469"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="sensor_board.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>363cb37d-2f93-405d-915c-e9e2cea0c8f6</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="Distributor Link">https://www.digikey.com/en/products/detail/murata-electronics/GRM188C80J106MEA6D/10706512?s=N4IgTCBcDaIOICUCyBGAHGgwmgDAKRRwDYkBRAQSIBEQBdAXyA</field>
+        <field name="LCSC">C576469</field>
+        <field name="Manufacturer">Murata Electronics</field>
+        <field name="Manufacturer Part Number">GRM188C80J106MEA6D</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Distributor Link" value="https://www.digikey.com/en/products/detail/murata-electronics/GRM188C80J106MEA6D/10706512?s=N4IgTCBcDaIOICUCyBGAHGgwmgDAKRRwDYkBRAQSIBEQBdAXyA"/>
+      <property name="Manufacturer" value="Murata Electronics"/>
+      <property name="Manufacturer Part Number" value="GRM188C80J106MEA6D"/>
+      <property name="LCSC" value="C576469"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="sensor_board.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b29c812f-130b-4a80-b00b-7e081cc1f5f2</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="Distributor Link">https://www.digikey.com/en/products/detail/murata-electronics/GRM188C80J106MEA6D/10706512?s=N4IgTCBcDaIOICUCyBGAHGgwmgDAKRRwDYkBRAQSIBEQBdAXyA</field>
+        <field name="LCSC">C576469</field>
+        <field name="Manufacturer">Murata Electronics</field>
+        <field name="Manufacturer Part Number">GRM188C80J106MEA6D</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Distributor Link" value="https://www.digikey.com/en/products/detail/murata-electronics/GRM188C80J106MEA6D/10706512?s=N4IgTCBcDaIOICUCyBGAHGgwmgDAKRRwDYkBRAQSIBEQBdAXyA"/>
+      <property name="Manufacturer" value="Murata Electronics"/>
+      <property name="Manufacturer Part Number" value="GRM188C80J106MEA6D"/>
+      <property name="LCSC" value="C576469"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="sensor_board.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4939b234-e87e-471b-8898-8b9973f458a6</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Distributor Link">https://www.digikey.com/en/products/detail/tdk-corporation/CGA2B2X5R1A104K050BA/3949392?s=N4IgTCBcDaIMIHECCYBCYAaBWASgRiTwAYAWAaSKyNSRAF0BfIA</field>
+        <field name="LCSC">C3847691</field>
+        <field name="Manufacturer">TDK Corporation</field>
+        <field name="Manufacturer Part Number">CGA2B2X5R1A104K050BA</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Distributor Link" value="https://www.digikey.com/en/products/detail/tdk-corporation/CGA2B2X5R1A104K050BA/3949392?s=N4IgTCBcDaIMIHECCYBCYAaBWASgRiTwAYAWAaSKyNSRAF0BfIA"/>
+      <property name="Manufacturer" value="TDK Corporation"/>
+      <property name="Manufacturer Part Number" value="CGA2B2X5R1A104K050BA"/>
+      <property name="LCSC" value="C3847691"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="sensor_board.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c4934553-b419-4195-bd9f-d047bfd7a6cd</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Distributor Link">https://www.digikey.com/en/products/detail/tdk-corporation/CGA2B2X5R1A104K050BA/3949392?s=N4IgTCBcDaIMIHECCYBCYAaBWASgRiTwAYAWAaSKyNSRAF0BfIA</field>
+        <field name="LCSC">C3847691</field>
+        <field name="Manufacturer">TDK Corporation</field>
+        <field name="Manufacturer Part Number">CGA2B2X5R1A104K050BA</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Distributor Link" value="https://www.digikey.com/en/products/detail/tdk-corporation/CGA2B2X5R1A104K050BA/3949392?s=N4IgTCBcDaIMIHECCYBCYAaBWASgRiTwAYAWAaSKyNSRAF0BfIA"/>
+      <property name="Manufacturer" value="TDK Corporation"/>
+      <property name="Manufacturer Part Number" value="CGA2B2X5R1A104K050BA"/>
+      <property name="LCSC" value="C3847691"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="sensor_board.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0df31873-48eb-4e67-8eae-bc1697e84b6a</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Distributor Link">https://www.digikey.com/en/products/detail/tdk-corporation/CGA2B2X5R1A104K050BA/3949392?s=N4IgTCBcDaIMIHECCYBCYAaBWASgRiTwAYAWAaSKyNSRAF0BfIA</field>
+        <field name="LCSC">C3847691</field>
+        <field name="Manufacturer">TDK Corporation</field>
+        <field name="Manufacturer Part Number">CGA2B2X5R1A104K050BA</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Distributor Link" value="https://www.digikey.com/en/products/detail/tdk-corporation/CGA2B2X5R1A104K050BA/3949392?s=N4IgTCBcDaIMIHECCYBCYAaBWASgRiTwAYAWAaSKyNSRAF0BfIA"/>
+      <property name="Manufacturer" value="TDK Corporation"/>
+      <property name="Manufacturer Part Number" value="CGA2B2X5R1A104K050BA"/>
+      <property name="LCSC" value="C3847691"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="sensor_board.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f59d6c0a-bd7d-4947-bf26-0d94e521c0ce</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Distributor Link">https://www.digikey.com/en/products/detail/tdk-corporation/CGA2B2X5R1A104K050BA/3949392?s=N4IgTCBcDaIMIHECCYBCYAaBWASgRiTwAYAWAaSKyNSRAF0BfIA</field>
+        <field name="LCSC">C3847691</field>
+        <field name="Manufacturer">TDK Corporation</field>
+        <field name="Manufacturer Part Number">CGA2B2X5R1A104K050BA</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Distributor Link" value="https://www.digikey.com/en/products/detail/tdk-corporation/CGA2B2X5R1A104K050BA/3949392?s=N4IgTCBcDaIMIHECCYBCYAaBWASgRiTwAYAWAaSKyNSRAF0BfIA"/>
+      <property name="Manufacturer" value="TDK Corporation"/>
+      <property name="Manufacturer Part Number" value="CGA2B2X5R1A104K050BA"/>
+      <property name="LCSC" value="C3847691"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="sensor_board.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>93eb1787-31aa-42d2-bfcd-e666a00a1f7b</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="Distributor Link">https://www.digikey.com/en/products/detail/kemet/C0603C105K4PAC7867/1465595?s=N4IgTCBcDaIAQGEAMA2JBmBBGJBWA0gCwAKAgggOwAcKFIAugL5A</field>
+        <field name="LCSC">C561801</field>
+        <field name="Manufacturer">KEMET</field>
+        <field name="Manufacturer Part Number">C0603C105K4PAC7867</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Distributor Link" value="https://www.digikey.com/en/products/detail/kemet/C0603C105K4PAC7867/1465595?s=N4IgTCBcDaIAQGEAMA2JBmBBGJBWA0gCwAKAgggOwAcKFIAugL5A"/>
+      <property name="Manufacturer" value="KEMET"/>
+      <property name="Manufacturer Part Number" value="C0603C105K4PAC7867"/>
+      <property name="LCSC" value="C561801"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="sensor_board.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0b251bf6-6e4e-4259-8f86-081cbe539370</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="Distributor Link">https://www.digikey.com/en/products/detail/kemet/C0603C105K4PAC7867/1465595?s=N4IgTCBcDaIAQGEAMA2JBmBBGJBWA0gCwAKAgggOwAcKFIAugL5A</field>
+        <field name="LCSC">C561801</field>
+        <field name="Manufacturer">KEMET</field>
+        <field name="Manufacturer Part Number">C0603C105K4PAC7867</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Distributor Link" value="https://www.digikey.com/en/products/detail/kemet/C0603C105K4PAC7867/1465595?s=N4IgTCBcDaIAQGEAMA2JBmBBGJBWA0gCwAKAgggOwAcKFIAugL5A"/>
+      <property name="Manufacturer" value="KEMET"/>
+      <property name="Manufacturer Part Number" value="C0603C105K4PAC7867"/>
+      <property name="LCSC" value="C561801"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="sensor_board.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7bd4c732-d6f0-4a0a-b80b-35fb2b5fb8d6</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="Distributor Link">https://www.digikey.com/en/products/detail/kemet/C0603C105K4PAC7867/1465595?s=N4IgTCBcDaIAQGEAMA2JBmBBGJBWA0gCwAKAgggOwAcKFIAugL5A</field>
+        <field name="LCSC">C561801</field>
+        <field name="Manufacturer">KEMET</field>
+        <field name="Manufacturer Part Number">C0603C105K4PAC7867</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Distributor Link" value="https://www.digikey.com/en/products/detail/kemet/C0603C105K4PAC7867/1465595?s=N4IgTCBcDaIAQGEAMA2JBmBBGJBWA0gCwAKAgggOwAcKFIAugL5A"/>
+      <property name="Manufacturer" value="KEMET"/>
+      <property name="Manufacturer Part Number" value="C0603C105K4PAC7867"/>
+      <property name="LCSC" value="C561801"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="sensor_board.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>da799858-83a6-42c3-aa84-0f09d73bab8d</tstamps>
+    </comp>
+    <comp ref="C14">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="Distributor Link">https://www.digikey.com/en/products/detail/kemet/C0603C105K4PAC7867/1465595?s=N4IgTCBcDaIAQGEAMA2JBmBBGJBWA0gCwAKAgggOwAcKFIAugL5A</field>
+        <field name="LCSC">C561801</field>
+        <field name="Manufacturer">KEMET</field>
+        <field name="Manufacturer Part Number">C0603C105K4PAC7867</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Distributor Link" value="https://www.digikey.com/en/products/detail/kemet/C0603C105K4PAC7867/1465595?s=N4IgTCBcDaIAQGEAMA2JBmBBGJBWA0gCwAKAgggOwAcKFIAugL5A"/>
+      <property name="Manufacturer" value="KEMET"/>
+      <property name="Manufacturer Part Number" value="C0603C105K4PAC7867"/>
+      <property name="LCSC" value="C561801"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="sensor_board.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>58fc0030-c0dd-42db-8529-9cd0d31b62c5</tstamps>
+    </comp>
+    <comp ref="C15">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="Distributor Link">https://www.digikey.com/en/products/detail/murata-electronics/GRM188C80J106MEA6D/10706512?s=N4IgTCBcDaIOICUCyBGAHGgwmgDAKRRwDYkBRAQSIBEQBdAXyA</field>
+        <field name="LCSC">C576469</field>
+        <field name="Manufacturer">Murata Electronics</field>
+        <field name="Manufacturer Part Number">GRM188C80J106MEA6D</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Distributor Link" value="https://www.digikey.com/en/products/detail/murata-electronics/GRM188C80J106MEA6D/10706512?s=N4IgTCBcDaIOICUCyBGAHGgwmgDAKRRwDYkBRAQSIBEQBdAXyA"/>
+      <property name="Manufacturer" value="Murata Electronics"/>
+      <property name="Manufacturer Part Number" value="GRM188C80J106MEA6D"/>
+      <property name="LCSC" value="C576469"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="sensor_board.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>90be6245-1df9-4e07-a11b-e4fa729943f8</tstamps>
+    </comp>
+    <comp ref="C16">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="Distributor Link">https://www.digikey.com/en/products/detail/murata-electronics/GRM188C80J106MEA6D/10706512?s=N4IgTCBcDaIOICUCyBGAHGgwmgDAKRRwDYkBRAQSIBEQBdAXyA</field>
+        <field name="LCSC">C576469</field>
+        <field name="Manufacturer">Murata Electronics</field>
+        <field name="Manufacturer Part Number">GRM188C80J106MEA6D</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Distributor Link" value="https://www.digikey.com/en/products/detail/murata-electronics/GRM188C80J106MEA6D/10706512?s=N4IgTCBcDaIOICUCyBGAHGgwmgDAKRRwDYkBRAQSIBEQBdAXyA"/>
+      <property name="Manufacturer" value="Murata Electronics"/>
+      <property name="Manufacturer Part Number" value="GRM188C80J106MEA6D"/>
+      <property name="LCSC" value="C576469"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="sensor_board.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>17fc4900-dc98-47cc-9acb-528077f61e55</tstamps>
+    </comp>
+    <comp ref="C17">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Distributor Link">https://www.digikey.com/en/products/detail/tdk-corporation/CGA2B2X5R1A104K050BA/3949392?s=N4IgTCBcDaIMIHECCYBCYAaBWASgRiTwAYAWAaSKyNSRAF0BfIA</field>
+        <field name="LCSC">C3847691</field>
+        <field name="Manufacturer">TDK Corporation</field>
+        <field name="Manufacturer Part Number">CGA2B2X5R1A104K050BA</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Distributor Link" value="https://www.digikey.com/en/products/detail/tdk-corporation/CGA2B2X5R1A104K050BA/3949392?s=N4IgTCBcDaIMIHECCYBCYAaBWASgRiTwAYAWAaSKyNSRAF0BfIA"/>
+      <property name="Manufacturer" value="TDK Corporation"/>
+      <property name="Manufacturer Part Number" value="CGA2B2X5R1A104K050BA"/>
+      <property name="LCSC" value="C3847691"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="sensor_board.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>90c006f2-495b-4553-8fec-a9a05aa06e13</tstamps>
+    </comp>
+    <comp ref="C18">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Distributor Link">https://www.digikey.com/en/products/detail/tdk-corporation/CGA2B2X5R1A104K050BA/3949392?s=N4IgTCBcDaIMIHECCYBCYAaBWASgRiTwAYAWAaSKyNSRAF0BfIA</field>
+        <field name="LCSC">C3847691</field>
+        <field name="Manufacturer">TDK Corporation</field>
+        <field name="Manufacturer Part Number">CGA2B2X5R1A104K050BA</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Distributor Link" value="https://www.digikey.com/en/products/detail/tdk-corporation/CGA2B2X5R1A104K050BA/3949392?s=N4IgTCBcDaIMIHECCYBCYAaBWASgRiTwAYAWAaSKyNSRAF0BfIA"/>
+      <property name="Manufacturer" value="TDK Corporation"/>
+      <property name="Manufacturer Part Number" value="CGA2B2X5R1A104K050BA"/>
+      <property name="LCSC" value="C3847691"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="sensor_board.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1b8c3b69-8773-498c-8bcb-a9f8c1508706</tstamps>
+    </comp>
+    <comp ref="C19">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="Distributor Link">https://www.digikey.com/en/products/detail/kemet/C0603C105K4PAC7867/1465595?s=N4IgTCBcDaIAQGEAMA2JBmBBGJBWA0gCwAKAgggOwAcKFIAugL5A</field>
+        <field name="LCSC">C561801</field>
+        <field name="Manufacturer">KEMET</field>
+        <field name="Manufacturer Part Number">C0603C105K4PAC7867</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Distributor Link" value="https://www.digikey.com/en/products/detail/kemet/C0603C105K4PAC7867/1465595?s=N4IgTCBcDaIAQGEAMA2JBmBBGJBWA0gCwAKAgggOwAcKFIAugL5A"/>
+      <property name="Manufacturer" value="KEMET"/>
+      <property name="Manufacturer Part Number" value="C0603C105K4PAC7867"/>
+      <property name="LCSC" value="C561801"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="sensor_board.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a5f24454-f3d4-4da7-990b-cad4ac4d227d</tstamps>
+    </comp>
+    <comp ref="C20">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="Distributor Link">https://www.digikey.com/en/products/detail/kemet/C0603C105K4PAC7867/1465595?s=N4IgTCBcDaIAQGEAMA2JBmBBGJBWA0gCwAKAgggOwAcKFIAugL5A</field>
+        <field name="LCSC">C561801</field>
+        <field name="Manufacturer">KEMET</field>
+        <field name="Manufacturer Part Number">C0603C105K4PAC7867</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Distributor Link" value="https://www.digikey.com/en/products/detail/kemet/C0603C105K4PAC7867/1465595?s=N4IgTCBcDaIAQGEAMA2JBmBBGJBWA0gCwAKAgggOwAcKFIAugL5A"/>
+      <property name="Manufacturer" value="KEMET"/>
+      <property name="Manufacturer Part Number" value="C0603C105K4PAC7867"/>
+      <property name="LCSC" value="C561801"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="sensor_board.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5483d075-29a0-46af-9d6b-e0d02d58ab9d</tstamps>
+    </comp>
+    <comp ref="C21">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="Distributor Link">https://www.digikey.com/en/products/detail/murata-electronics/GRM188C80J106MEA6D/10706512?s=N4IgTCBcDaIOICUCyBGAHGgwmgDAKRRwDYkBRAQSIBEQBdAXyA</field>
+        <field name="LCSC">C576469</field>
+        <field name="Manufacturer">Murata Electronics</field>
+        <field name="Manufacturer Part Number">GRM188C80J106MEA6D</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Distributor Link" value="https://www.digikey.com/en/products/detail/murata-electronics/GRM188C80J106MEA6D/10706512?s=N4IgTCBcDaIOICUCyBGAHGgwmgDAKRRwDYkBRAQSIBEQBdAXyA"/>
+      <property name="Manufacturer" value="Murata Electronics"/>
+      <property name="Manufacturer Part Number" value="GRM188C80J106MEA6D"/>
+      <property name="LCSC" value="C576469"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="sensor_board.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e5251579-71f6-4088-a25b-c6bf90b593fd</tstamps>
+    </comp>
+    <comp ref="C22">
+      <value>10nF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Distributor Link">https://www.digikey.com/en/products/detail/murata-electronics/GRM155R71C103JA01D/10701787?s=N4IgTCBcDaIAQHEBKBZAjAVg0g7GgwmgAwDMAUgIJFoAiIAugL5A</field>
+        <field name="LCSC">C88947</field>
+        <field name="Manufacturer">Murata Electronics</field>
+        <field name="Manufacturer Part Number">GRM155R71C103JA01D</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Distributor Link" value="https://www.digikey.com/en/products/detail/murata-electronics/GRM155R71C103JA01D/10701787?s=N4IgTCBcDaIAQHEBKBZAjAVg0g7GgwmgAwDMAUgIJFoAiIAugL5A"/>
+      <property name="Manufacturer" value="Murata Electronics"/>
+      <property name="Manufacturer Part Number" value="GRM155R71C103JA01D"/>
+      <property name="LCSC" value="C88947"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="sensor_board.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3f0fbce1-1326-4450-9940-9c97cbe0fcd1</tstamps>
+    </comp>
+    <comp ref="C23">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Distributor Link">https://www.digikey.com/en/products/detail/tdk-corporation/CGA2B2X5R1A104K050BA/3949392?s=N4IgTCBcDaIMIHECCYBCYAaBWASgRiTwAYAWAaSKyNSRAF0BfIA</field>
+        <field name="LCSC">C3847691</field>
+        <field name="Manufacturer">TDK Corporation</field>
+        <field name="Manufacturer Part Number">CGA2B2X5R1A104K050BA</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Distributor Link" value="https://www.digikey.com/en/products/detail/tdk-corporation/CGA2B2X5R1A104K050BA/3949392?s=N4IgTCBcDaIMIHECCYBCYAaBWASgRiTwAYAWAaSKyNSRAF0BfIA"/>
+      <property name="Manufacturer" value="TDK Corporation"/>
+      <property name="Manufacturer Part Number" value="CGA2B2X5R1A104K050BA"/>
+      <property name="LCSC" value="C3847691"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="sensor_board.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7a6f098c-bdb3-43d2-95b2-f747383b8457</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="Distributor Link">https://www.digikey.com/en/products/detail/rohm-semiconductor/SML-P11UTT86R/4862230?s=N4IgTCBcDaIAQGUCyAZAtABQIxYKoBV8AOANgCUQBdAXyA</field>
+        <field name="LCSC">C510300</field>
+        <field name="Manufacturer">Rohm Semiconductor</field>
+        <field name="Manufacturer Part Number">SML-P11UTT86R</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Distributor Link" value="https://www.digikey.com/en/products/detail/rohm-semiconductor/SML-P11UTT86R/4862230?s=N4IgTCBcDaIAQGUCyAZAtABQIxYKoBV8AOANgCUQBdAXyA"/>
+      <property name="Manufacturer" value="Rohm Semiconductor"/>
+      <property name="Manufacturer Part Number" value="SML-P11UTT86R"/>
+      <property name="LCSC" value="C510300"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="sensor_board.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ef3bbde1-5057-42c6-8a7a-b1f536b99df3</tstamps>
+    </comp>
+    <comp ref="H1">
+      <value>MountingHole_Pad</value>
+      <footprint>MountingHole:MountingHole_2.2mm_M2_Pad</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Distributor Link" value=""/>
+      <property name="Manufacturer" value=""/>
+      <property name="Manufacturer Part Number" value=""/>
+      <property name="LCSC" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="sensor_board.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole with connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>acdfe75e-74e6-41a7-bb7a-24c124da6337</tstamps>
+    </comp>
+    <comp ref="H2">
+      <value>MountingHole_Pad</value>
+      <footprint>MountingHole:MountingHole_2.2mm_M2_Pad</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Distributor Link" value=""/>
+      <property name="Manufacturer" value=""/>
+      <property name="Manufacturer Part Number" value=""/>
+      <property name="LCSC" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="sensor_board.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole with connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>094f2509-d470-4845-9a6c-b6279315f9d6</tstamps>
+    </comp>
+    <comp ref="H3">
+      <value>MountingHole_Pad</value>
+      <footprint>MountingHole:MountingHole_2.2mm_M2_Pad</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Distributor Link" value=""/>
+      <property name="Manufacturer" value=""/>
+      <property name="Manufacturer Part Number" value=""/>
+      <property name="LCSC" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="sensor_board.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole with connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>986365eb-f0b0-4dec-80a2-be138907e948</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="Distributor Link">https://www.digikey.com/en/products/detail/yageo/RC0402FR-0710KL/726523?s=N4IgTCBcDaIEoGEAMAWJYBicC0SDsAjEgNIAyIAugL5A</field>
+        <field name="LCSC">C60490</field>
+        <field name="Manufacturer">YAGEO</field>
+        <field name="Manufacturer Part Number">RC0402FR-0710KL</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Distributor Link" value="https://www.digikey.com/en/products/detail/yageo/RC0402FR-0710KL/726523?s=N4IgTCBcDaIEoGEAMAWJYBicC0SDsAjEgNIAyIAugL5A"/>
+      <property name="Manufacturer" value="YAGEO"/>
+      <property name="Manufacturer Part Number" value="RC0402FR-0710KL"/>
+      <property name="LCSC" value="C60490"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="sensor_board.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7057d7eb-4425-4365-9eb3-022388973f9f</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="Distributor Link">https://www.digikey.com/en/products/detail/yageo/RC0402FR-0710KL/726523?s=N4IgTCBcDaIEoGEAMAWJYBicC0SDsAjEgNIAyIAugL5A</field>
+        <field name="LCSC">C60490</field>
+        <field name="Manufacturer">YAGEO</field>
+        <field name="Manufacturer Part Number">RC0402FR-0710KL</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Distributor Link" value="https://www.digikey.com/en/products/detail/yageo/RC0402FR-0710KL/726523?s=N4IgTCBcDaIEoGEAMAWJYBicC0SDsAjEgNIAyIAugL5A"/>
+      <property name="Manufacturer" value="YAGEO"/>
+      <property name="Manufacturer Part Number" value="RC0402FR-0710KL"/>
+      <property name="LCSC" value="C60490"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="sensor_board.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>531f0660-75bb-407c-ad8c-19ebc9d4eed2</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="Distributor Link">https://www.digikey.com/en/products/detail/yageo/RC0402FR-0710KL/726523?s=N4IgTCBcDaIEoGEAMAWJYBicC0SDsAjEgNIAyIAugL5A</field>
+        <field name="LCSC">C60490</field>
+        <field name="Manufacturer">YAGEO</field>
+        <field name="Manufacturer Part Number">RC0402FR-0710KL</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Distributor Link" value="https://www.digikey.com/en/products/detail/yageo/RC0402FR-0710KL/726523?s=N4IgTCBcDaIEoGEAMAWJYBicC0SDsAjEgNIAyIAugL5A"/>
+      <property name="Manufacturer" value="YAGEO"/>
+      <property name="Manufacturer Part Number" value="RC0402FR-0710KL"/>
+      <property name="LCSC" value="C60490"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="sensor_board.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4a454bd1-5bf7-4a5c-8597-3b3ffa252b67</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="Distributor Link">https://www.digikey.com/en/products/detail/yageo/RC0402FR-0710KL/726523?s=N4IgTCBcDaIEoGEAMAWJYBicC0SDsAjEgNIAyIAugL5A</field>
+        <field name="LCSC">C60490</field>
+        <field name="Manufacturer">YAGEO</field>
+        <field name="Manufacturer Part Number">RC0402FR-0710KL</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Distributor Link" value="https://www.digikey.com/en/products/detail/yageo/RC0402FR-0710KL/726523?s=N4IgTCBcDaIEoGEAMAWJYBicC0SDsAjEgNIAyIAugL5A"/>
+      <property name="Manufacturer" value="YAGEO"/>
+      <property name="Manufacturer Part Number" value="RC0402FR-0710KL"/>
+      <property name="LCSC" value="C60490"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="sensor_board.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>776c8821-2413-4819-b9a0-d30e15c5eff1</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="Distributor Link">https://www.digikey.com/en/products/detail/yageo/RC0402FR-0710KL/726523?s=N4IgTCBcDaIEoGEAMAWJYBicC0SDsAjEgNIAyIAugL5A</field>
+        <field name="LCSC">C60490</field>
+        <field name="Manufacturer">YAGEO</field>
+        <field name="Manufacturer Part Number">RC0402FR-0710KL</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Distributor Link" value="https://www.digikey.com/en/products/detail/yageo/RC0402FR-0710KL/726523?s=N4IgTCBcDaIEoGEAMAWJYBicC0SDsAjEgNIAyIAugL5A"/>
+      <property name="Manufacturer" value="YAGEO"/>
+      <property name="Manufacturer Part Number" value="RC0402FR-0710KL"/>
+      <property name="LCSC" value="C60490"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="sensor_board.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f594c7e8-02b9-4b5f-afab-0c6322be185f</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="Distributor Link">https://www.digikey.com/en/products/detail/yageo/RC0402FR-0710KL/726523?s=N4IgTCBcDaIEoGEAMAWJYBicC0SDsAjEgNIAyIAugL5A</field>
+        <field name="LCSC">C60490</field>
+        <field name="Manufacturer">YAGEO</field>
+        <field name="Manufacturer Part Number">RC0402FR-0710KL</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Distributor Link" value="https://www.digikey.com/en/products/detail/yageo/RC0402FR-0710KL/726523?s=N4IgTCBcDaIEoGEAMAWJYBicC0SDsAjEgNIAyIAugL5A"/>
+      <property name="Manufacturer" value="YAGEO"/>
+      <property name="Manufacturer Part Number" value="RC0402FR-0710KL"/>
+      <property name="LCSC" value="C60490"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="sensor_board.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1c6ba572-b8e7-4d4e-9542-b87cd0bf5ab2</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="Distributor Link">https://www.digikey.com/en/products/detail/yageo/RC0402FR-0710KL/726523?s=N4IgTCBcDaIEoGEAMAWJYBicC0SDsAjEgNIAyIAugL5A</field>
+        <field name="LCSC">C60490</field>
+        <field name="Manufacturer">YAGEO</field>
+        <field name="Manufacturer Part Number">RC0402FR-0710KL</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Distributor Link" value="https://www.digikey.com/en/products/detail/yageo/RC0402FR-0710KL/726523?s=N4IgTCBcDaIEoGEAMAWJYBicC0SDsAjEgNIAyIAugL5A"/>
+      <property name="Manufacturer" value="YAGEO"/>
+      <property name="Manufacturer Part Number" value="RC0402FR-0710KL"/>
+      <property name="LCSC" value="C60490"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="sensor_board.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>88f4f207-fa58-49d4-91b2-9722a9bb5b16</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="Distributor Link">https://www.digikey.com/en/products/detail/yageo/RC0402FR-0710KL/726523?s=N4IgTCBcDaIEoGEAMAWJYBicC0SDsAjEgNIAyIAugL5A</field>
+        <field name="LCSC">C60490</field>
+        <field name="Manufacturer">YAGEO</field>
+        <field name="Manufacturer Part Number">RC0402FR-0710KL</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Distributor Link" value="https://www.digikey.com/en/products/detail/yageo/RC0402FR-0710KL/726523?s=N4IgTCBcDaIEoGEAMAWJYBicC0SDsAjEgNIAyIAugL5A"/>
+      <property name="Manufacturer" value="YAGEO"/>
+      <property name="Manufacturer Part Number" value="RC0402FR-0710KL"/>
+      <property name="LCSC" value="C60490"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="sensor_board.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>06def3dd-848b-416f-a0ed-4b072333abb2</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="Distributor Link">https://www.digikey.com/en/products/detail/yageo/RC0402FR-0710KL/726523?s=N4IgTCBcDaIEoGEAMAWJYBicC0SDsAjEgNIAyIAugL5A</field>
+        <field name="LCSC">C60490</field>
+        <field name="Manufacturer">YAGEO</field>
+        <field name="Manufacturer Part Number">RC0402FR-0710KL</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Distributor Link" value="https://www.digikey.com/en/products/detail/yageo/RC0402FR-0710KL/726523?s=N4IgTCBcDaIEoGEAMAWJYBicC0SDsAjEgNIAyIAugL5A"/>
+      <property name="Manufacturer" value="YAGEO"/>
+      <property name="Manufacturer Part Number" value="RC0402FR-0710KL"/>
+      <property name="LCSC" value="C60490"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="sensor_board.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fcb446a3-40a9-4962-98cc-cc06f9ba9af2</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="Distributor Link">https://www.digikey.com/en/products/detail/yageo/RC0402FR-0710KL/726523?s=N4IgTCBcDaIEoGEAMAWJYBicC0SDsAjEgNIAyIAugL5A</field>
+        <field name="LCSC">C60490</field>
+        <field name="Manufacturer">YAGEO</field>
+        <field name="Manufacturer Part Number">RC0402FR-0710KL</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Distributor Link" value="https://www.digikey.com/en/products/detail/yageo/RC0402FR-0710KL/726523?s=N4IgTCBcDaIEoGEAMAWJYBicC0SDsAjEgNIAyIAugL5A"/>
+      <property name="Manufacturer" value="YAGEO"/>
+      <property name="Manufacturer Part Number" value="RC0402FR-0710KL"/>
+      <property name="LCSC" value="C60490"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="sensor_board.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1eb79c1b-50d3-4f0a-b464-69f590dd68a0</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="Distributor Link">https://www.digikey.com/en/products/detail/yageo/RC0402FR-0710KL/726523?s=N4IgTCBcDaIEoGEAMAWJYBicC0SDsAjEgNIAyIAugL5A</field>
+        <field name="LCSC">C60490</field>
+        <field name="Manufacturer">YAGEO</field>
+        <field name="Manufacturer Part Number">RC0402FR-0710KL</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Distributor Link" value="https://www.digikey.com/en/products/detail/yageo/RC0402FR-0710KL/726523?s=N4IgTCBcDaIEoGEAMAWJYBicC0SDsAjEgNIAyIAugL5A"/>
+      <property name="Manufacturer" value="YAGEO"/>
+      <property name="Manufacturer Part Number" value="RC0402FR-0710KL"/>
+      <property name="LCSC" value="C60490"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="sensor_board.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>29418592-3da1-41a0-a9bd-51f3be256e65</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="Distributor Link">https://www.digikey.com/en/products/detail/yageo/RC0402FR-0710KL/726523?s=N4IgTCBcDaIEoGEAMAWJYBicC0SDsAjEgNIAyIAugL5A</field>
+        <field name="LCSC">C60490</field>
+        <field name="Manufacturer">YAGEO</field>
+        <field name="Manufacturer Part Number">RC0402FR-0710KL</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Distributor Link" value="https://www.digikey.com/en/products/detail/yageo/RC0402FR-0710KL/726523?s=N4IgTCBcDaIEoGEAMAWJYBicC0SDsAjEgNIAyIAugL5A"/>
+      <property name="Manufacturer" value="YAGEO"/>
+      <property name="Manufacturer Part Number" value="RC0402FR-0710KL"/>
+      <property name="LCSC" value="C60490"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="sensor_board.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a7a47211-2601-4a5c-b2a1-a137a4ee43b7</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="Distributor Link">https://www.digikey.com/en/products/detail/yageo/RC0402FR-0710KL/726523?s=N4IgTCBcDaIEoGEAMAWJYBicC0SDsAjEgNIAyIAugL5A</field>
+        <field name="LCSC">C60490</field>
+        <field name="Manufacturer">YAGEO</field>
+        <field name="Manufacturer Part Number">RC0402FR-0710KL</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Distributor Link" value="https://www.digikey.com/en/products/detail/yageo/RC0402FR-0710KL/726523?s=N4IgTCBcDaIEoGEAMAWJYBicC0SDsAjEgNIAyIAugL5A"/>
+      <property name="Manufacturer" value="YAGEO"/>
+      <property name="Manufacturer Part Number" value="RC0402FR-0710KL"/>
+      <property name="LCSC" value="C60490"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="sensor_board.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>88726f5e-bda9-4bc5-b12c-a2ed686abbff</tstamps>
+    </comp>
+    <comp ref="R14">
+      <value>100k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="Distributor Link">https://www.digikey.com/en/products/detail/yageo/RC0402FR-07100KL/726526?s=N4IgTCBcDaIEoGEAMAWJYBicC0SDsAjEkgNIAyIAugL5A</field>
+        <field name="LCSC">C60491</field>
+        <field name="Manufacturer">YAGEO</field>
+        <field name="Manufacturer Part Number">RC0402FR-07100KL</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Distributor Link" value="https://www.digikey.com/en/products/detail/yageo/RC0402FR-07100KL/726526?s=N4IgTCBcDaIEoGEAMAWJYBicC0SDsAjEkgNIAyIAugL5A"/>
+      <property name="Manufacturer" value="YAGEO"/>
+      <property name="Manufacturer Part Number" value="RC0402FR-07100KL"/>
+      <property name="LCSC" value="C60491"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="sensor_board.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4f973e38-3af4-417b-b3c5-6d8bbe5ecde8</tstamps>
+    </comp>
+    <comp ref="R15">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="Distributor Link">https://www.digikey.com/en/products/detail/yageo/RC0402FR-0710KL/726523?s=N4IgTCBcDaIEoGEAMAWJYBicC0SDsAjEgNIAyIAugL5A</field>
+        <field name="LCSC">C60490</field>
+        <field name="Manufacturer">YAGEO</field>
+        <field name="Manufacturer Part Number">RC0402FR-0710KL</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Distributor Link" value="https://www.digikey.com/en/products/detail/yageo/RC0402FR-0710KL/726523?s=N4IgTCBcDaIEoGEAMAWJYBicC0SDsAjEgNIAyIAugL5A"/>
+      <property name="Manufacturer" value="YAGEO"/>
+      <property name="Manufacturer Part Number" value="RC0402FR-0710KL"/>
+      <property name="LCSC" value="C60490"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="sensor_board.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d7c1d0b2-ee54-4c69-8f6d-38cfa2cc685b</tstamps>
+    </comp>
+    <comp ref="R16">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="Distributor Link">https://www.digikey.com/en/products/detail/yageo/RC0402FR-0710KL/726523?s=N4IgTCBcDaIEoGEAMAWJYBicC0SDsAjEgNIAyIAugL5A</field>
+        <field name="LCSC">C60490</field>
+        <field name="Manufacturer">YAGEO</field>
+        <field name="Manufacturer Part Number">RC0402FR-0710KL</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Distributor Link" value="https://www.digikey.com/en/products/detail/yageo/RC0402FR-0710KL/726523?s=N4IgTCBcDaIEoGEAMAWJYBicC0SDsAjEgNIAyIAugL5A"/>
+      <property name="Manufacturer" value="YAGEO"/>
+      <property name="Manufacturer Part Number" value="RC0402FR-0710KL"/>
+      <property name="LCSC" value="C60490"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="sensor_board.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e8d448b0-ec1f-4c5c-a76d-56e330eb82c9</tstamps>
+    </comp>
+    <comp ref="R17">
+      <value>100k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="Distributor Link">https://www.digikey.com/en/products/detail/yageo/RC0402FR-07100KL/726526?s=N4IgTCBcDaIEoGEAMAWJYBicC0SDsAjEkgNIAyIAugL5A</field>
+        <field name="LCSC">C60491</field>
+        <field name="Manufacturer">YAGEO</field>
+        <field name="Manufacturer Part Number">RC0402FR-07100KL</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Distributor Link" value="https://www.digikey.com/en/products/detail/yageo/RC0402FR-07100KL/726526?s=N4IgTCBcDaIEoGEAMAWJYBicC0SDsAjEkgNIAyIAugL5A"/>
+      <property name="Manufacturer" value="YAGEO"/>
+      <property name="Manufacturer Part Number" value="RC0402FR-07100KL"/>
+      <property name="LCSC" value="C60491"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="sensor_board.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>692afbe6-5097-47e2-9c97-a1f4f73e7e4c</tstamps>
+    </comp>
+    <comp ref="R18">
+      <value>100k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="Distributor Link">https://www.digikey.com/en/products/detail/yageo/RC0402FR-07100KL/726526?s=N4IgTCBcDaIEoGEAMAWJYBicC0SDsAjEkgNIAyIAugL5A</field>
+        <field name="LCSC">C60491</field>
+        <field name="Manufacturer">YAGEO</field>
+        <field name="Manufacturer Part Number">RC0402FR-07100KL</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Distributor Link" value="https://www.digikey.com/en/products/detail/yageo/RC0402FR-07100KL/726526?s=N4IgTCBcDaIEoGEAMAWJYBicC0SDsAjEkgNIAyIAugL5A"/>
+      <property name="Manufacturer" value="YAGEO"/>
+      <property name="Manufacturer Part Number" value="RC0402FR-07100KL"/>
+      <property name="LCSC" value="C60491"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="sensor_board.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>312558cc-6a7b-4e33-bb19-7da3e7f2f3d2</tstamps>
+    </comp>
+    <comp ref="R19">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="Distributor Link">https://www.digikey.com/en/products/detail/yageo/RC0402FR-0710KL/726523?s=N4IgTCBcDaIEoGEAMAWJYBicC0SDsAjEgNIAyIAugL5A</field>
+        <field name="LCSC">C60490</field>
+        <field name="Manufacturer">YAGEO</field>
+        <field name="Manufacturer Part Number">RC0402FR-0710KL</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Distributor Link" value="https://www.digikey.com/en/products/detail/yageo/RC0402FR-0710KL/726523?s=N4IgTCBcDaIEoGEAMAWJYBicC0SDsAjEgNIAyIAugL5A"/>
+      <property name="Manufacturer" value="YAGEO"/>
+      <property name="Manufacturer Part Number" value="RC0402FR-0710KL"/>
+      <property name="LCSC" value="C60490"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="sensor_board.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>34b8cc67-816c-4093-8885-14166fdbe147</tstamps>
+    </comp>
+    <comp ref="R20">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="Distributor Link">https://www.digikey.com/en/products/detail/yageo/RC0402FR-0710KL/726523?s=N4IgTCBcDaIEoGEAMAWJYBicC0SDsAjEgNIAyIAugL5A</field>
+        <field name="LCSC">C60490</field>
+        <field name="Manufacturer">YAGEO</field>
+        <field name="Manufacturer Part Number">RC0402FR-0710KL</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Distributor Link" value="https://www.digikey.com/en/products/detail/yageo/RC0402FR-0710KL/726523?s=N4IgTCBcDaIEoGEAMAWJYBicC0SDsAjEgNIAyIAugL5A"/>
+      <property name="Manufacturer" value="YAGEO"/>
+      <property name="Manufacturer Part Number" value="RC0402FR-0710KL"/>
+      <property name="LCSC" value="C60490"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="sensor_board.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>755e154d-f1e4-4eac-be8b-bbb03bc53144</tstamps>
+    </comp>
+    <comp ref="R21">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="Distributor Link">https://www.digikey.com/en/products/detail/yageo/RC0402FR-0710KL/726523?s=N4IgTCBcDaIEoGEAMAWJYBicC0SDsAjEgNIAyIAugL5A</field>
+        <field name="LCSC">C60490</field>
+        <field name="Manufacturer">YAGEO</field>
+        <field name="Manufacturer Part Number">RC0402FR-0710KL</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Distributor Link" value="https://www.digikey.com/en/products/detail/yageo/RC0402FR-0710KL/726523?s=N4IgTCBcDaIEoGEAMAWJYBicC0SDsAjEgNIAyIAugL5A"/>
+      <property name="Manufacturer" value="YAGEO"/>
+      <property name="Manufacturer Part Number" value="RC0402FR-0710KL"/>
+      <property name="LCSC" value="C60490"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="sensor_board.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>004d02d4-f11f-4e5a-93b8-30fd299ef1a9</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>PCA9548APW</value>
+      <footprint>Package_SO:TSSOP-24_4.4x7.8mm_P0.65mm</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/pca9548a.pdf</datasheet>
+      <fields>
+        <field name="Distributor Link">https://www.digikey.com/en/products/detail/nxp-usa-inc/PCA9548APW-118/1157063</field>
+        <field name="LCSC">C21198</field>
+        <field name="Manufacturer">NXP USA Inc.</field>
+        <field name="Manufacturer Part Number">PCA9548APW,118</field>
+      </fields>
+      <libsource lib="Interface_Expansion" part="PCA9548APW" description="Low voltage 8-channel I2C switch with reset, TSSOP-24"/>
+      <property name="Distributor Link" value="https://www.digikey.com/en/products/detail/nxp-usa-inc/PCA9548APW-118/1157063"/>
+      <property name="Manufacturer" value="NXP USA Inc."/>
+      <property name="Manufacturer Part Number" value="PCA9548APW,118"/>
+      <property name="LCSC" value="C21198"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="sensor_board.kicad_sch"/>
+      <property name="ki_description" value="Low voltage 8-channel I2C switch with reset, TSSOP-24"/>
+      <property name="ki_keywords" value="Low voltage 8-channel I2C switch with reset"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>68948d8a-e771-4f95-b634-1825334b072c</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>DRV2605LDGS</value>
+      <footprint>Package_SO:VSSOP-10_3x3mm_P0.5mm</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/drv2605l.pdf</datasheet>
+      <fields>
+        <field name="Distributor Link">https://www.digikey.com/en/products/detail/texas-instruments/DRV2605LDGSR/5014144</field>
+        <field name="LCSC">C527464</field>
+        <field name="Manufacturer">Texas Instruments</field>
+        <field name="Manufacturer Part Number">DRV2605LDGSR</field>
+      </fields>
+      <libsource lib="Driver_Haptic" part="DRV2605LDGS" description="Haptic driver for LRAs and ERMs with effect library, 2-5.2V, VSSOP-10"/>
+      <property name="Distributor Link" value="https://www.digikey.com/en/products/detail/texas-instruments/DRV2605LDGSR/5014144"/>
+      <property name="Manufacturer" value="Texas Instruments"/>
+      <property name="Manufacturer Part Number" value="DRV2605LDGSR"/>
+      <property name="LCSC" value="C527464"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="sensor_board.kicad_sch"/>
+      <property name="ki_description" value="Haptic driver for LRAs and ERMs with effect library, 2-5.2V, VSSOP-10"/>
+      <property name="ki_keywords" value="haptic driver i2c"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ea479f8b-16e0-4e54-9c53-2b04b0be1213</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>DRV2605LDGS</value>
+      <footprint>Package_SO:VSSOP-10_3x3mm_P0.5mm</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/drv2605l.pdf</datasheet>
+      <fields>
+        <field name="Distributor Link">https://www.digikey.com/en/products/detail/texas-instruments/DRV2605LDGSR/5014144</field>
+        <field name="LCSC">C527464</field>
+        <field name="Manufacturer">Texas Instruments</field>
+        <field name="Manufacturer Part Number">DRV2605LDGSR</field>
+      </fields>
+      <libsource lib="Driver_Haptic" part="DRV2605LDGS" description="Haptic driver for LRAs and ERMs with effect library, 2-5.2V, VSSOP-10"/>
+      <property name="Distributor Link" value="https://www.digikey.com/en/products/detail/texas-instruments/DRV2605LDGSR/5014144"/>
+      <property name="Manufacturer" value="Texas Instruments"/>
+      <property name="Manufacturer Part Number" value="DRV2605LDGSR"/>
+      <property name="LCSC" value="C527464"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="sensor_board.kicad_sch"/>
+      <property name="ki_description" value="Haptic driver for LRAs and ERMs with effect library, 2-5.2V, VSSOP-10"/>
+      <property name="ki_keywords" value="haptic driver i2c"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7b7e37b9-0f1f-4385-8d02-f1144314b821</tstamps>
+    </comp>
+    <comp ref="U4">
+      <value>DRV2605LDGS</value>
+      <footprint>Package_SO:VSSOP-10_3x3mm_P0.5mm</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/drv2605l.pdf</datasheet>
+      <fields>
+        <field name="Distributor Link">https://www.digikey.com/en/products/detail/texas-instruments/DRV2605LDGSR/5014144</field>
+        <field name="LCSC">C527464</field>
+        <field name="Manufacturer">Texas Instruments</field>
+        <field name="Manufacturer Part Number">DRV2605LDGSR</field>
+      </fields>
+      <libsource lib="Driver_Haptic" part="DRV2605LDGS" description="Haptic driver for LRAs and ERMs with effect library, 2-5.2V, VSSOP-10"/>
+      <property name="Distributor Link" value="https://www.digikey.com/en/products/detail/texas-instruments/DRV2605LDGSR/5014144"/>
+      <property name="Manufacturer" value="Texas Instruments"/>
+      <property name="Manufacturer Part Number" value="DRV2605LDGSR"/>
+      <property name="LCSC" value="C527464"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="sensor_board.kicad_sch"/>
+      <property name="ki_description" value="Haptic driver for LRAs and ERMs with effect library, 2-5.2V, VSSOP-10"/>
+      <property name="ki_keywords" value="haptic driver i2c"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>653e09f2-b790-4a55-b53c-0905ab382521</tstamps>
+    </comp>
+    <comp ref="U5">
+      <value>DRV2605LDGS</value>
+      <footprint>Package_SO:VSSOP-10_3x3mm_P0.5mm</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/drv2605l.pdf</datasheet>
+      <fields>
+        <field name="Distributor Link">https://www.digikey.com/en/products/detail/texas-instruments/DRV2605LDGSR/5014144</field>
+        <field name="LCSC">C527464</field>
+        <field name="Manufacturer">Texas Instruments</field>
+        <field name="Manufacturer Part Number">DRV2605LDGSR</field>
+      </fields>
+      <libsource lib="Driver_Haptic" part="DRV2605LDGS" description="Haptic driver for LRAs and ERMs with effect library, 2-5.2V, VSSOP-10"/>
+      <property name="Distributor Link" value="https://www.digikey.com/en/products/detail/texas-instruments/DRV2605LDGSR/5014144"/>
+      <property name="Manufacturer" value="Texas Instruments"/>
+      <property name="Manufacturer Part Number" value="DRV2605LDGSR"/>
+      <property name="LCSC" value="C527464"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="sensor_board.kicad_sch"/>
+      <property name="ki_description" value="Haptic driver for LRAs and ERMs with effect library, 2-5.2V, VSSOP-10"/>
+      <property name="ki_keywords" value="haptic driver i2c"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3d672bbd-429d-4fcc-a1c1-05615239ac1b</tstamps>
+    </comp>
+    <comp ref="U6">
+      <value>DRV2605LDGS</value>
+      <footprint>Package_SO:VSSOP-10_3x3mm_P0.5mm</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/drv2605l.pdf</datasheet>
+      <fields>
+        <field name="Distributor Link">https://www.digikey.com/en/products/detail/texas-instruments/DRV2605LDGSR/5014144</field>
+        <field name="LCSC">C527464</field>
+        <field name="Manufacturer">Texas Instruments</field>
+        <field name="Manufacturer Part Number">DRV2605LDGSR</field>
+      </fields>
+      <libsource lib="Driver_Haptic" part="DRV2605LDGS" description="Haptic driver for LRAs and ERMs with effect library, 2-5.2V, VSSOP-10"/>
+      <property name="Distributor Link" value="https://www.digikey.com/en/products/detail/texas-instruments/DRV2605LDGSR/5014144"/>
+      <property name="Manufacturer" value="Texas Instruments"/>
+      <property name="Manufacturer Part Number" value="DRV2605LDGSR"/>
+      <property name="LCSC" value="C527464"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="sensor_board.kicad_sch"/>
+      <property name="ki_description" value="Haptic driver for LRAs and ERMs with effect library, 2-5.2V, VSSOP-10"/>
+      <property name="ki_keywords" value="haptic driver i2c"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e795cb2b-39c3-4ecf-bfa6-f29289cdd5e9</tstamps>
+    </comp>
+    <comp ref="U7">
+      <value>DRV2605LDGS</value>
+      <footprint>Package_SO:VSSOP-10_3x3mm_P0.5mm</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/drv2605l.pdf</datasheet>
+      <fields>
+        <field name="Distributor Link">https://www.digikey.com/en/products/detail/texas-instruments/DRV2605LDGSR/5014144</field>
+        <field name="LCSC">C527464</field>
+        <field name="Manufacturer">Texas Instruments</field>
+        <field name="Manufacturer Part Number">DRV2605LDGSR</field>
+      </fields>
+      <libsource lib="Driver_Haptic" part="DRV2605LDGS" description="Haptic driver for LRAs and ERMs with effect library, 2-5.2V, VSSOP-10"/>
+      <property name="Distributor Link" value="https://www.digikey.com/en/products/detail/texas-instruments/DRV2605LDGSR/5014144"/>
+      <property name="Manufacturer" value="Texas Instruments"/>
+      <property name="Manufacturer Part Number" value="DRV2605LDGSR"/>
+      <property name="LCSC" value="C527464"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="sensor_board.kicad_sch"/>
+      <property name="ki_description" value="Haptic driver for LRAs and ERMs with effect library, 2-5.2V, VSSOP-10"/>
+      <property name="ki_keywords" value="haptic driver i2c"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9b940a47-0b6a-4673-8fc4-176566780b3a</tstamps>
+    </comp>
+    <comp ref="U8">
+      <value>ADXL343</value>
+      <footprint>Package_LGA:LGA-14_3x5mm_P0.8mm_LayoutBorder1x6y</footprint>
+      <datasheet>https://www.analog.com/media/en/technical-documentation/data-sheets/ADXL343.pdf</datasheet>
+      <fields>
+        <field name="Distributor Link">https://www.digikey.com/en/products/detail/analog-devices-inc/ADXL343BCCZ-RL7/3542894</field>
+        <field name="LCSC">C579454</field>
+        <field name="Manufacturer">Analog Devices Inc.</field>
+        <field name="Manufacturer Part Number">ADXL343BCCZ-RL7</field>
+      </fields>
+      <libsource lib="Sensor_Motion" part="ADXL343" description="3-Axis MEMS Accelerometer, 2/4/8/16g range, I2C/SPI, LGA-14"/>
+      <property name="Distributor Link" value="https://www.digikey.com/en/products/detail/analog-devices-inc/ADXL343BCCZ-RL7/3542894"/>
+      <property name="Manufacturer" value="Analog Devices Inc."/>
+      <property name="Manufacturer Part Number" value="ADXL343BCCZ-RL7"/>
+      <property name="LCSC" value="C579454"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="sensor_board.kicad_sch"/>
+      <property name="ki_description" value="3-Axis MEMS Accelerometer, 2/4/8/16g range, I2C/SPI, LGA-14"/>
+      <property name="ki_keywords" value="3-axis accelerometer i2c spi mems"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>32d53c49-81d9-41e2-b705-653a5d251431</tstamps>
+    </comp>
+    <comp ref="U9">
+      <value>RV-8803-C7-TA-QC</value>
+      <footprint>RV-8803-C7-TA-QC:IC_RV-8803-C7-TA-QC</footprint>
+      <fields>
+        <field name="Availability">In Stock</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/RV-8803-C7-TA-QC/Micro+Crystal/view-part/?ref=eda</field>
+        <field name="Description">
+Real-Time Clock Module, Temperature compensated, in 1.5 x 3.2 mm package
+</field>
+        <field name="Distributor Link">https://www.digikey.com/en/products/detail/micro-crystal-ag/RV-8803-C7-32-768KHZ-3PPM-TA-QC/10499250</field>
+        <field name="LCSC">C2846926</field>
+        <field name="MANUFACTURER">Micro Crystal</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">0.8 mm</field>
+        <field name="MF">Micro Crystal</field>
+        <field name="MP">RV-8803-C7-TA-QC</field>
+        <field name="Manufacturer">Micro Crystal AG</field>
+        <field name="Manufacturer Part Number">RV-8803-C7-32.768KHZ-3PPM-TA-QC</field>
+        <field name="PARTREV">5.1/06.2018</field>
+        <field name="Package">QFN-8 Micro Crystal</field>
+        <field name="Price">None</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/RV-8803-C7-TA-QC/Micro+Crystal/view-part/?ref=snap</field>
+      </fields>
+      <libsource lib="RV-8803-C7-TA-QC" part="RV-8803-C7-TA-QC" description=""/>
+      <property name="MF" value="Micro Crystal"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="0.8 mm"/>
+      <property name="Package" value="QFN-8 Micro Crystal"/>
+      <property name="Price" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/RV-8803-C7-TA-QC/Micro+Crystal/view-part/?ref=eda"/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="PARTREV" value="5.1/06.2018"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/RV-8803-C7-TA-QC/Micro+Crystal/view-part/?ref=snap"/>
+      <property name="MP" value="RV-8803-C7-TA-QC"/>
+      <property name="Description" value="&#xA;Real-Time Clock Module, Temperature compensated, in 1.5 x 3.2 mm package&#xA;"/>
+      <property name="Availability" value="In Stock"/>
+      <property name="MANUFACTURER" value="Micro Crystal"/>
+      <property name="Distributor Link" value="https://www.digikey.com/en/products/detail/micro-crystal-ag/RV-8803-C7-32-768KHZ-3PPM-TA-QC/10499250"/>
+      <property name="Manufacturer" value="Micro Crystal AG"/>
+      <property name="Manufacturer Part Number" value="RV-8803-C7-32.768KHZ-3PPM-TA-QC"/>
+      <property name="LCSC" value="C2846926"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="sensor_board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>072f8439-cd47-4ab2-b470-fcc9f8c3df92</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="Conn_01x02_Pin">
+      <description>Generic connector, single row, 01x02, script generated</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x02_Pin</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x03_Pin">
+      <description>Generic connector, single row, 01x03, script generated</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x03_Pin</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x06_Pin">
+      <description>Generic connector, single row, 01x06, script generated</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x06_Pin</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED">
+      <description>Light emitting diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Driver_Haptic" part="DRV2605LDGS">
+      <description>Haptic driver for LRAs and ERMs with effect library, 2-5.2V, VSSOP-10</description>
+      <docs>http://www.ti.com/lit/ds/symlink/drv2605l.pdf</docs>
+      <footprints>
+        <fp>VSSOP*3x3mm*P0.5mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">DRV2605LDGS</field>
+        <field name="Footprint">Package_SO:VSSOP-10_3x3mm_P0.5mm</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/drv2605l.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="REG" type="passive"/>
+        <pin num="2" name="SCL" type="input"/>
+        <pin num="3" name="SDA" type="bidirectional"/>
+        <pin num="4" name="IN/TRIG" type="input"/>
+        <pin num="5" name="EN" type="input"/>
+        <pin num="6" name="VDD/NC" type="power_in"/>
+        <pin num="7" name="OUT+" type="output"/>
+        <pin num="8" name="GND" type="power_in"/>
+        <pin num="9" name="OUT-" type="output"/>
+        <pin num="10" name="VDD" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Interface_Expansion" part="PCA9548APW">
+      <description>Low voltage 8-channel I2C switch with reset, TSSOP-24</description>
+      <docs>http://www.ti.com/lit/ds/symlink/pca9548a.pdf</docs>
+      <footprints>
+        <fp>TSSOP*4.4x7.8mm*P0.65mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">PCA9548APW</field>
+        <field name="Footprint">Package_SO:TSSOP-24_4.4x7.8mm_P0.65mm</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/pca9548a.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A0" type="input"/>
+        <pin num="2" name="A1" type="input"/>
+        <pin num="3" name="~{RESET}" type="input"/>
+        <pin num="4" name="SD0" type="bidirectional"/>
+        <pin num="5" name="SC0" type="output"/>
+        <pin num="6" name="SD1" type="bidirectional"/>
+        <pin num="7" name="SC1" type="output"/>
+        <pin num="8" name="SD2" type="bidirectional"/>
+        <pin num="9" name="SC2" type="output"/>
+        <pin num="10" name="SD3" type="bidirectional"/>
+        <pin num="11" name="SC3" type="output"/>
+        <pin num="12" name="GND" type="power_in"/>
+        <pin num="13" name="SD4" type="bidirectional"/>
+        <pin num="14" name="SC4" type="output"/>
+        <pin num="15" name="SD5" type="bidirectional"/>
+        <pin num="16" name="SC5" type="output"/>
+        <pin num="17" name="SD6" type="bidirectional"/>
+        <pin num="18" name="SC6" type="output"/>
+        <pin num="19" name="SD7" type="bidirectional"/>
+        <pin num="20" name="SC7" type="output"/>
+        <pin num="21" name="A2" type="input"/>
+        <pin num="22" name="SCL" type="input"/>
+        <pin num="23" name="SDA" type="bidirectional"/>
+        <pin num="24" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Mechanical" part="Fiducial">
+      <description>Fiducial Marker</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Fiducial*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">FID</field>
+        <field name="Value">Fiducial</field>
+        <field name="Datasheet">~</field>
+      </fields>
+    </libpart>
+    <libpart lib="Mechanical" part="MountingHole_Pad">
+      <description>Mounting Hole with connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*Pad*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole_Pad</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="RV-8803-C7-TA-QC" part="RV-8803-C7-TA-QC">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">RV-8803-C7-TA-QC</field>
+        <field name="Footprint">RV-8803-C7-TA-QC:IC_RV-8803-C7-TA-QC</field>
+        <field name="MF">Micro Crystal</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">0.8 mm</field>
+        <field name="Package">QFN-8 Micro Crystal</field>
+        <field name="Price">None</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/RV-8803-C7-TA-QC/Micro+Crystal/view-part/?ref=eda</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="PARTREV">5.1/06.2018</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/RV-8803-C7-TA-QC/Micro+Crystal/view-part/?ref=snap</field>
+        <field name="MP">RV-8803-C7-TA-QC</field>
+        <field name="Description">
+Real-Time Clock Module, Temperature compensated, in 1.5 x 3.2 mm package
+</field>
+        <field name="Availability">In Stock</field>
+        <field name="MANUFACTURER">Micro Crystal</field>
+      </fields>
+      <pins>
+        <pin num="1" name="SDA" type="bidirectional"/>
+        <pin num="2" name="CLKOUT" type="output"/>
+        <pin num="3" name="VDD" type="power_in"/>
+        <pin num="4" name="CLKOE" type="input"/>
+        <pin num="5" name="VSS" type="power_in"/>
+        <pin num="6" name="~{INT}" type="output"/>
+        <pin num="7" name="EVI" type="input"/>
+        <pin num="8" name="SCL" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Sensor_Motion" part="ADXL343">
+      <description>3-Axis MEMS Accelerometer, 2/4/8/16g range, I2C/SPI, LGA-14</description>
+      <docs>https://www.analog.com/media/en/technical-documentation/data-sheets/ADXL343.pdf</docs>
+      <footprints>
+        <fp>*LGA*3x5mm*P0.8mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">ADXL343</field>
+        <field name="Footprint">Package_LGA:LGA-14_3x5mm_P0.8mm_LayoutBorder1x6y</field>
+        <field name="Datasheet">https://www.analog.com/media/en/technical-documentation/data-sheets/ADXL343.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Vdd_I/O" type="power_in"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="RES" type="passive"/>
+        <pin num="4" name="GND" type="passive"/>
+        <pin num="5" name="GND" type="passive"/>
+        <pin num="6" name="Vs" type="power_in"/>
+        <pin num="7" name="~{CS}" type="input"/>
+        <pin num="8" name="INT1" type="output"/>
+        <pin num="9" name="INT2" type="output"/>
+        <pin num="10" name="NC" type="no_connect"/>
+        <pin num="11" name="RES" type="passive"/>
+        <pin num="12" name="SDO/ADDR" type="bidirectional"/>
+        <pin num="13" name="SDA/SDI/SDIO" type="bidirectional"/>
+        <pin num="14" name="SCL/SCLK" type="input"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>/usr/share/kicad/symbols//Connector.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>/usr/share/kicad/symbols//Device.kicad_sym</uri>
+    </library>
+    <library logical="Driver_Haptic">
+      <uri>/usr/share/kicad/symbols//Driver_Haptic.kicad_sym</uri>
+    </library>
+    <library logical="Interface_Expansion">
+      <uri>/usr/share/kicad/symbols//Interface_Expansion.kicad_sym</uri>
+    </library>
+    <library logical="Mechanical">
+      <uri>/usr/share/kicad/symbols//Mechanical.kicad_sym</uri>
+    </library>
+    <library logical="RV-8803-C7-TA-QC">
+      <uri>/home/allzhang/Downloads/hardware_components/RV-8803-C7-TA-QC/RV-8803-C7-TA-QC.kicad_sym</uri>
+    </library>
+    <library logical="Sensor_Motion">
+      <uri>/usr/share/kicad/symbols//Sensor_Motion.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+3V3">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="C15" pin="1" pintype="passive"/>
+      <node ref="C16" pin="1" pintype="passive"/>
+      <node ref="C17" pin="1" pintype="passive"/>
+      <node ref="C18" pin="1" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C21" pin="1" pintype="passive"/>
+      <node ref="C22" pin="1" pintype="passive"/>
+      <node ref="C23" pin="1" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="R10" pin="1" pintype="passive"/>
+      <node ref="R11" pin="1" pintype="passive"/>
+      <node ref="R12" pin="1" pintype="passive"/>
+      <node ref="R13" pin="1" pintype="passive"/>
+      <node ref="R14" pin="1" pintype="passive"/>
+      <node ref="R16" pin="2" pintype="passive"/>
+      <node ref="R18" pin="2" pintype="passive"/>
+      <node ref="R19" pin="1" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="R20" pin="1" pintype="passive"/>
+      <node ref="R21" pin="1" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+      <node ref="U1" pin="24" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U2" pin="10" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U2" pin="5" pinfunction="EN" pintype="input"/>
+      <node ref="U2" pin="6" pinfunction="VDD/NC" pintype="power_in"/>
+      <node ref="U3" pin="10" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U3" pin="5" pinfunction="EN" pintype="input"/>
+      <node ref="U3" pin="6" pinfunction="VDD/NC" pintype="power_in"/>
+      <node ref="U4" pin="10" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U4" pin="5" pinfunction="EN" pintype="input"/>
+      <node ref="U4" pin="6" pinfunction="VDD/NC" pintype="power_in"/>
+      <node ref="U5" pin="10" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U5" pin="5" pinfunction="EN" pintype="input"/>
+      <node ref="U5" pin="6" pinfunction="VDD/NC" pintype="power_in"/>
+      <node ref="U6" pin="10" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U6" pin="5" pinfunction="EN" pintype="input"/>
+      <node ref="U6" pin="6" pinfunction="VDD/NC" pintype="power_in"/>
+      <node ref="U7" pin="10" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U7" pin="5" pinfunction="EN" pintype="input"/>
+      <node ref="U7" pin="6" pinfunction="VDD/NC" pintype="power_in"/>
+      <node ref="U8" pin="1" pinfunction="Vdd_I/O" pintype="power_in"/>
+      <node ref="U8" pin="6" pinfunction="Vs" pintype="power_in"/>
+      <node ref="U9" pin="3" pinfunction="VDD" pintype="power_in"/>
+    </net>
+    <net code="2" name="/ACCEL_INT1">
+      <node ref="U8" pin="8" pinfunction="INT1" pintype="output"/>
+    </net>
+    <net code="3" name="/ACCEL_INT2">
+      <node ref="U8" pin="9" pinfunction="INT2" pintype="output"/>
+    </net>
+    <net code="4" name="/RTC_CLKOE">
+      <node ref="R17" pin="2" pintype="passive"/>
+      <node ref="U9" pin="4" pinfunction="CLKOE" pintype="input"/>
+    </net>
+    <net code="5" name="/RTC_CLKOUT">
+      <node ref="U9" pin="2" pinfunction="CLKOUT" pintype="output"/>
+    </net>
+    <net code="6" name="/RTC_INT">
+      <node ref="R18" pin="1" pintype="passive"/>
+      <node ref="U9" pin="6" pinfunction="~{INT}" pintype="output"/>
+    </net>
+    <net code="7" name="/SCL">
+      <node ref="R19" pin="2" pintype="passive"/>
+      <node ref="U1" pin="22" pinfunction="SCL" pintype="input"/>
+      <node ref="U8" pin="14" pinfunction="SCL/SCLK" pintype="input"/>
+      <node ref="U9" pin="8" pinfunction="SCL" pintype="input"/>
+    </net>
+    <net code="8" name="/SDA">
+      <node ref="R21" pin="2" pintype="passive"/>
+      <node ref="U1" pin="23" pinfunction="SDA" pintype="bidirectional"/>
+      <node ref="U8" pin="13" pinfunction="SDA/SDI/SDIO" pintype="bidirectional"/>
+      <node ref="U9" pin="1" pinfunction="SDA" pintype="bidirectional"/>
+    </net>
+    <net code="9" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="C13" pin="2" pintype="passive"/>
+      <node ref="C14" pin="2" pintype="passive"/>
+      <node ref="C15" pin="2" pintype="passive"/>
+      <node ref="C16" pin="2" pintype="passive"/>
+      <node ref="C17" pin="2" pintype="passive"/>
+      <node ref="C18" pin="2" pintype="passive"/>
+      <node ref="C19" pin="2" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C20" pin="2" pintype="passive"/>
+      <node ref="C21" pin="2" pintype="passive"/>
+      <node ref="C22" pin="2" pintype="passive"/>
+      <node ref="C23" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="H1" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="H2" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="H3" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="R15" pin="1" pintype="passive"/>
+      <node ref="R17" pin="1" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="A0" pintype="input"/>
+      <node ref="U1" pin="12" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="2" pinfunction="A1" pintype="input"/>
+      <node ref="U1" pin="21" pinfunction="A2" pintype="input"/>
+      <node ref="U2" pin="4" pinfunction="IN/TRIG" pintype="input"/>
+      <node ref="U2" pin="8" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="4" pinfunction="IN/TRIG" pintype="input"/>
+      <node ref="U3" pin="8" pinfunction="GND" pintype="power_in"/>
+      <node ref="U4" pin="4" pinfunction="IN/TRIG" pintype="input"/>
+      <node ref="U4" pin="8" pinfunction="GND" pintype="power_in"/>
+      <node ref="U5" pin="4" pinfunction="IN/TRIG" pintype="input"/>
+      <node ref="U5" pin="8" pinfunction="GND" pintype="power_in"/>
+      <node ref="U6" pin="4" pinfunction="IN/TRIG" pintype="input"/>
+      <node ref="U6" pin="8" pinfunction="GND" pintype="power_in"/>
+      <node ref="U7" pin="4" pinfunction="IN/TRIG" pintype="input"/>
+      <node ref="U7" pin="8" pinfunction="GND" pintype="power_in"/>
+      <node ref="U8" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U8" pin="4" pinfunction="GND" pintype="passive"/>
+      <node ref="U8" pin="5" pinfunction="GND" pintype="passive"/>
+      <node ref="U9" pin="5" pinfunction="VSS" pintype="power_in"/>
+    </net>
+    <net code="10" name="Net-(D1-A)">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R20" pin="2" pintype="passive"/>
+    </net>
+    <net code="11" name="Net-(J1-Pin_1)">
+      <node ref="U2" pin="9" pinfunction="OUT-" pintype="output"/>
+    </net>
+    <net code="12" name="Net-(J1-Pin_2)">
+      <node ref="U2" pin="7" pinfunction="OUT+" pintype="output"/>
+    </net>
+    <net code="13" name="Net-(J2-Pin_1)">
+      <node ref="U3" pin="9" pinfunction="OUT-" pintype="output"/>
+    </net>
+    <net code="14" name="Net-(J2-Pin_2)">
+      <node ref="U3" pin="7" pinfunction="OUT+" pintype="output"/>
+    </net>
+    <net code="15" name="Net-(J3-Pin_1)">
+      <node ref="U4" pin="9" pinfunction="OUT-" pintype="output"/>
+    </net>
+    <net code="16" name="Net-(J3-Pin_2)">
+      <node ref="U4" pin="7" pinfunction="OUT+" pintype="output"/>
+    </net>
+    <net code="17" name="Net-(J4-Pin_1)">
+      <node ref="U5" pin="9" pinfunction="OUT-" pintype="output"/>
+    </net>
+    <net code="18" name="Net-(J4-Pin_2)">
+      <node ref="U5" pin="7" pinfunction="OUT+" pintype="output"/>
+    </net>
+    <net code="19" name="Net-(J5-Pin_1)">
+      <node ref="U6" pin="9" pinfunction="OUT-" pintype="output"/>
+    </net>
+    <net code="20" name="Net-(J5-Pin_2)">
+      <node ref="U6" pin="7" pinfunction="OUT+" pintype="output"/>
+    </net>
+    <net code="21" name="Net-(J6-Pin_1)">
+      <node ref="U7" pin="9" pinfunction="OUT-" pintype="output"/>
+    </net>
+    <net code="22" name="Net-(J6-Pin_2)">
+      <node ref="U7" pin="7" pinfunction="OUT+" pintype="output"/>
+    </net>
+    <net code="23" name="Net-(U1-SC1)">
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="U1" pin="7" pinfunction="SC1" pintype="output"/>
+      <node ref="U2" pin="2" pinfunction="SCL" pintype="input"/>
+    </net>
+    <net code="24" name="Net-(U1-SC2)">
+      <node ref="R12" pin="2" pintype="passive"/>
+      <node ref="U1" pin="9" pinfunction="SC2" pintype="output"/>
+      <node ref="U6" pin="2" pinfunction="SCL" pintype="input"/>
+    </net>
+    <net code="25" name="Net-(U1-SC3)">
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="U1" pin="11" pinfunction="SC3" pintype="output"/>
+      <node ref="U3" pin="2" pinfunction="SCL" pintype="input"/>
+    </net>
+    <net code="26" name="Net-(U1-SC5)">
+      <node ref="R13" pin="2" pintype="passive"/>
+      <node ref="U1" pin="16" pinfunction="SC5" pintype="output"/>
+      <node ref="U7" pin="2" pinfunction="SCL" pintype="input"/>
+    </net>
+    <net code="27" name="Net-(U1-SC6)">
+      <node ref="R8" pin="2" pintype="passive"/>
+      <node ref="U1" pin="18" pinfunction="SC6" pintype="output"/>
+      <node ref="U4" pin="2" pinfunction="SCL" pintype="input"/>
+    </net>
+    <net code="28" name="Net-(U1-SC7)">
+      <node ref="R9" pin="2" pintype="passive"/>
+      <node ref="U1" pin="20" pinfunction="SC7" pintype="output"/>
+      <node ref="U5" pin="2" pinfunction="SCL" pintype="input"/>
+    </net>
+    <net code="29" name="Net-(U1-SD1)">
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="SD1" pintype="bidirectional"/>
+      <node ref="U2" pin="3" pinfunction="SDA" pintype="bidirectional"/>
+    </net>
+    <net code="30" name="Net-(U1-SD2)">
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="U1" pin="8" pinfunction="SD2" pintype="bidirectional"/>
+      <node ref="U6" pin="3" pinfunction="SDA" pintype="bidirectional"/>
+    </net>
+    <net code="31" name="Net-(U1-SD3)">
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="U1" pin="10" pinfunction="SD3" pintype="bidirectional"/>
+      <node ref="U3" pin="3" pinfunction="SDA" pintype="bidirectional"/>
+    </net>
+    <net code="32" name="Net-(U1-SD5)">
+      <node ref="R11" pin="2" pintype="passive"/>
+      <node ref="U1" pin="15" pinfunction="SD5" pintype="bidirectional"/>
+      <node ref="U7" pin="3" pinfunction="SDA" pintype="bidirectional"/>
+    </net>
+    <net code="33" name="Net-(U1-SD6)">
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="U1" pin="17" pinfunction="SD6" pintype="bidirectional"/>
+      <node ref="U4" pin="3" pinfunction="SDA" pintype="bidirectional"/>
+    </net>
+    <net code="34" name="Net-(U1-SD7)">
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="U1" pin="19" pinfunction="SD7" pintype="bidirectional"/>
+      <node ref="U5" pin="3" pinfunction="SDA" pintype="bidirectional"/>
+    </net>
+    <net code="35" name="Net-(U1-~{RESET})">
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="~{RESET}" pintype="input"/>
+    </net>
+    <net code="36" name="Net-(U2-REG)">
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="U2" pin="1" pinfunction="REG" pintype="passive"/>
+    </net>
+    <net code="37" name="Net-(U3-REG)">
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="U3" pin="1" pinfunction="REG" pintype="passive"/>
+    </net>
+    <net code="38" name="Net-(U4-REG)">
+      <node ref="C13" pin="1" pintype="passive"/>
+      <node ref="U4" pin="1" pinfunction="REG" pintype="passive"/>
+    </net>
+    <net code="39" name="Net-(U5-REG)">
+      <node ref="C14" pin="1" pintype="passive"/>
+      <node ref="U5" pin="1" pinfunction="REG" pintype="passive"/>
+    </net>
+    <net code="40" name="Net-(U6-REG)">
+      <node ref="C19" pin="1" pintype="passive"/>
+      <node ref="U6" pin="1" pinfunction="REG" pintype="passive"/>
+    </net>
+    <net code="41" name="Net-(U7-REG)">
+      <node ref="C20" pin="1" pintype="passive"/>
+      <node ref="U7" pin="1" pinfunction="REG" pintype="passive"/>
+    </net>
+    <net code="42" name="Net-(U8-SDO{slash}ADDR)">
+      <node ref="R15" pin="2" pintype="passive"/>
+      <node ref="U8" pin="12" pinfunction="SDO/ADDR" pintype="bidirectional"/>
+    </net>
+    <net code="43" name="Net-(U8-~{CS})">
+      <node ref="R16" pin="1" pintype="passive"/>
+      <node ref="U8" pin="7" pinfunction="~{CS}" pintype="input"/>
+    </net>
+    <net code="44" name="Net-(U9-EVI)">
+      <node ref="R14" pin="2" pintype="passive"/>
+      <node ref="U9" pin="7" pinfunction="EVI" pintype="input"/>
+    </net>
+    <net code="45" name="unconnected-(U1-SC0-Pad5)">
+      <node ref="U1" pin="5" pinfunction="SC0" pintype="output+no_connect"/>
+    </net>
+    <net code="46" name="unconnected-(U1-SC4-Pad14)">
+      <node ref="U1" pin="14" pinfunction="SC4" pintype="output+no_connect"/>
+    </net>
+    <net code="47" name="unconnected-(U1-SD0-Pad4)">
+      <node ref="U1" pin="4" pinfunction="SD0" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="48" name="unconnected-(U1-SD4-Pad13)">
+      <node ref="U1" pin="13" pinfunction="SD4" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="49" name="unconnected-(U8-NC-Pad10)">
+      <node ref="U8" pin="10" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="50" name="unconnected-(U8-RES-Pad3)">
+      <node ref="U8" pin="3" pinfunction="RES" pintype="passive+no_connect"/>
+    </net>
+    <net code="51" name="unconnected-(U8-RES-Pad11)">
+      <node ref="U8" pin="11" pinfunction="RES" pintype="passive+no_connect"/>
+    </net>
+  </nets>
+</export>
