@@ -1,4 +1,4 @@
-22694421848513579
+22697840103555218
 1-1825027-1
 SW_1-1825027-1
 
@@ -20,6 +20,13 @@ audio belton reverb
 0
 7
 7
+B2B-PH-SM4-TB
+JST_B2B-PH-SM4-TB
+
+
+0
+4
+4
 Battery
 BatteryClip_Keystone_54_D16-19mm
 Battery clip for batteries with a diameter between 16-19 mm: https://www.keyelco.com/product.cfm/product_id/826
@@ -61620,6 +61627,13 @@ solder jumper open
 0
 5
 3
+KiCad
+BGM220PC22HNA2R
+BGM220PC22HNA2R-1
+Integrated Circuit
+0
+31
+31
 LED_SMD
 LED-APA102-2020
 http://www.led-color.com/upload/201604/APA102-2020%20SMD%20LED.pdf
