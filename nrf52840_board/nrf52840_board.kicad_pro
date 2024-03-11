@@ -34,9 +34,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.762,
-          "height": 1.524,
-          "width": 1.524
+          "drill": 0.0,
+          "height": 0.27,
+          "width": 0.71
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -45,7 +45,7 @@
         "silk_text_thickness": 0.15,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.5
+          "min_clearance": 0.0
         }
       },
       "diff_pair_dimensions": [
@@ -114,7 +114,7 @@
         "min_clearance": 0.15,
         "min_connection": 0.15,
         "min_copper_edge_clearance": 0.3,
-        "min_hole_clearance": 0.35,
+        "min_hole_clearance": 0.26,
         "min_hole_to_hole": 0.5499999999999999,
         "min_microvia_diameter": 0.19999999999999998,
         "min_microvia_drill": 0.09999999999999999,
@@ -403,7 +403,7 @@
       "no_connect_dangling": "warning",
       "pin_not_connected": "error",
       "pin_not_driven": "error",
-      "pin_to_pin": "warning",
+      "pin_to_pin": "error",
       "power_pin_not_driven": "error",
       "similar_labels": "warning",
       "simulation_model_issue": "ignore",
@@ -449,8 +449,25 @@
         "line_style": 0,
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
+        "name": "ExternalPins",
+        "pcb_color": "rgb(255, 0, 255)",
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.25,
+        "via_diameter": 0.8,
+        "via_drill": 0.4,
+        "wire_width": 6
+      },
+      {
+        "bus_width": 12,
+        "clearance": 0.2,
+        "diff_pair_gap": 0.25,
+        "diff_pair_via_gap": 0.25,
+        "diff_pair_width": 0.2,
+        "line_style": 0,
+        "microvia_diameter": 0.3,
+        "microvia_drill": 0.1,
         "name": "GND",
-        "pcb_color": "rgb(76, 75, 111)",
+        "pcb_color": "rgb(72, 72, 72)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.25,
         "via_diameter": 0.8,
@@ -467,7 +484,7 @@
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
         "name": "I2C_0",
-        "pcb_color": "rgb(255, 176, 112)",
+        "pcb_color": "rgb(0, 194, 194)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.25,
         "via_diameter": 0.8,
@@ -484,7 +501,24 @@
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
         "name": "I2C_1",
-        "pcb_color": "rgb(159, 255, 100)",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.25,
+        "via_diameter": 0.8,
+        "via_drill": 0.4,
+        "wire_width": 6
+      },
+      {
+        "bus_width": 12,
+        "clearance": 0.2,
+        "diff_pair_gap": 0.25,
+        "diff_pair_via_gap": 0.25,
+        "diff_pair_width": 0.2,
+        "line_style": 0,
+        "microvia_diameter": 0.3,
+        "microvia_drill": 0.1,
+        "name": "Led",
+        "pcb_color": "rgb(132, 132, 0)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.25,
         "via_diameter": 0.8,
@@ -501,7 +535,24 @@
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
         "name": "SWD",
-        "pcb_color": "rgb(95, 94, 255)",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.25,
+        "via_diameter": 0.8,
+        "via_drill": 0.4,
+        "wire_width": 6
+      },
+      {
+        "bus_width": 12,
+        "clearance": 0.2,
+        "diff_pair_gap": 0.25,
+        "diff_pair_via_gap": 0.25,
+        "diff_pair_width": 0.2,
+        "line_style": 0,
+        "microvia_diameter": 0.3,
+        "microvia_drill": 0.1,
+        "name": "Switch",
+        "pcb_color": "rgb(255, 229, 191)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.25,
         "via_diameter": 0.8,
@@ -518,7 +569,7 @@
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
         "name": "Vbat",
-        "pcb_color": "rgb(141, 0, 255)",
+        "pcb_color": "rgb(255, 171, 43)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.25,
         "via_diameter": 0.8,
@@ -535,7 +586,7 @@
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
         "name": "Vdd",
-        "pcb_color": "rgb(255, 16, 237)",
+        "pcb_color": "rgb(255, 0, 0)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.25,
         "via_diameter": 0.8,
@@ -552,7 +603,7 @@
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
         "name": "Vusb",
-        "pcb_color": "rgb(255, 23, 69)",
+        "pcb_color": "rgb(46, 255, 43)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.25,
         "via_diameter": 0.8,
@@ -593,6 +644,18 @@
       {
         "netclass": "SWD",
         "pattern": "/debug*"
+      },
+      {
+        "netclass": "ExternalPins",
+        "pattern": "/external*"
+      },
+      {
+        "netclass": "Switch",
+        "pattern": "/switch*"
+      },
+      {
+        "netclass": "Led",
+        "pattern": "/led*"
       }
     ]
   },
